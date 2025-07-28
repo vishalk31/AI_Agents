@@ -1,12 +1,12 @@
-\# Chapter 1: What Is an AI Agent?
+# Chapter 1: What Is an AI Agent?
 
 
 
-\## 🤖 AI Agents for Dummies
+## 🤖 AI Agents for Dummies
 
 
 
-\### The Simple Answer
+### The Simple Answer
 
 
 
@@ -14,11 +14,11 @@ Think of it this way:
 
 
 
-\*\*LLM (Like ChatGPT)\*\* = An empty kitchen with just a knife and stove. You have all the ingredients (data), but YOU have to do all the cooking (thinking and acting).
+**LLM (Like ChatGPT)** = An empty kitchen with just a knife and stove. You have all the ingredients (data), but YOU have to do all the cooking (thinking and acting).
 
 
 
-\*\*AI Agent\*\* = A fully equipped smart kitchen with auto-cookers, timers, recipe suggestions, and a chef assistant. It doesn't just help you cook - it can cook FOR you and WITH you.
+**AI Agent** = A fully equipped smart kitchen with auto-cookers, timers, recipe suggestions, and a chef assistant. It doesn't just help you cook - it can cook FOR you and WITH you.
 
 
 
@@ -26,7 +26,7 @@ The difference? An LLM gives you answers. An AI Agent gets things done.
 
 
 
-\### Real-World Example: Weather Agent
+### Real-World Example: Weather Agent
 
 
 
@@ -34,11 +34,11 @@ Your weather app isn't just showing you data - it's acting like an intelligent a
 
 
 
-1\. \*\*SENSE\*\* → Reads your location, checks weather satellites, monitors forecast models
+1. **SENSE** → Reads your location, checks weather satellites, monitors forecast models
 
-2\. \*\*THINK\*\* → "82% rain chance + user leaving home = recommend umbrella"  
+2. **THINK** → "82% rain chance + user leaving home = recommend umbrella"  
 
-3\. \*\*ACT\*\* → Sends notification: "Take umbrella! 82% rain chance"
+3. **ACT** → Sends notification: "Take umbrella! 82% rain chance"
 
 
 
@@ -46,7 +46,7 @@ It's not waiting for you to ask "Should I take an umbrella?" - it's proactively 
 
 
 
-\### Why Agents vs Just AI?
+### Why Agents vs Just AI?
 
 
 
@@ -64,7 +64,7 @@ It's not waiting for you to ask "Should I take an umbrella?" - it's proactively 
 
 
 
-\### The Three-Step Agent Cycle
+### The Three-Step Agent Cycle
 
 
 
@@ -72,41 +72,41 @@ Every AI agent follows this simple pattern:
 
 
 
-1\. \*\*SENSE\*\* 👁️ → Get information from the environment
+1. **SENSE** 👁️ → Get information from the environment
 
-2\. \*\*THINK\*\* 🧠 → Decide what to do based on goals
+2. **THINK** 🧠 → Decide what to do based on goals
 
-3\. \*\*ACT\*\* ⚡ → Take action to achieve those goals
-
-
-
-\### What We'll Build in This Chapter
+3. **ACT** ⚡ → Take action to achieve those goals
 
 
 
-Our first agent: \*\*Personal Finance Analyzer\*\*
+### What We'll Build in This Chapter
 
 
 
-\- \*\*SENSE\*\* → Read your financial PDF tables
+Our first agent: **Personal Finance Analyzer**
 
-\- \*\*THINK\*\* → Analyze spending patterns and find insights  
 
-\- \*\*ACT\*\* → Generate smart recommendations for better financial decisions
+
+- **SENSE** → Read your financial PDF tables
+
+- **THINK** → Analyze spending patterns and find insights  
+
+- **ACT** → Generate smart recommendations for better financial decisions
 
 
 
 Instead of you manually scanning through boring transaction tables, this agent will tell you things like:
 
-\- "You spent 40% more on food delivery this month"
+- "You spent 40% more on food delivery this month"
 
-\- "You have ₹2,000 in small charges you might not notice"
+- "You have ₹2,000 in small charges you might not notice"
 
-\- "Your weekend spending is 3x higher than weekdays"
+- "Your weekend spending is 3x higher than weekdays"
 
 
 
-\### Key Takeaway
+### Key Takeaway
 
 
 
@@ -122,11 +122,11 @@ Ready to build your first agent? Let's go! 🚀
 
 
 
-\## 📁 Next Steps
+## 📁 Next Steps
 
-\- Set up project structure
+- Set up project structure
 
-\- Build simple reactive agent
+- Build simple reactive agent
 
-\- Add intelligence step by step
+- Add intelligence step by step
 
